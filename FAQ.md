@@ -6,7 +6,7 @@
 
 > 你们的目的是什么？
 
-A：我们的目的在 GitHub README 已经说明。具体请参照 https://github.com/axolotlTFGS/CSense。目前我们的行动暂没有取得任何进展，怀疑可能是官方优越感过强所致。
+A：我们的目的在 GitHub README 已经说明。具体请参照 https://github.com/axolotlTFGS/CSense 。目前我们的行动暂没有取得任何进展，怀疑可能是官方优越感过强所致。
 
 ---
 
@@ -40,7 +40,7 @@ A：并非热爱。根据 Gandi IDE 开源的源代码和提交记录可知，Ga
 
 相关引用及证据：
 1. 你猜为什么我们挂那么多 tag 还能发出去呢？
-2. 如 https://github.com/Gandi-IDE/scratch-vm/blob/develop/src/extension-support/extension-manager.js#L103 的 `isConstructor` 函数存在性能问题并违反 eslint 规则，且可以被以下代码轻易重构（数据来源 https://github.com/Gandi-IDE/scratch-vm/pull/7）：
+2. 如 https://github.com/Gandi-IDE/scratch-vm/blob/develop/src/extension-support/extension-manager.js#L103 的 `isConstructor` 函数存在性能问题并违反 eslint 规则，且可以被以下代码轻易重构（数据来源 https://github.com/Gandi-IDE/scratch-vm/pull/7 ）：
 ```
 const isConstructor = value => !!value.prototype;
 ```
@@ -48,7 +48,7 @@ const isConstructor = value => !!value.prototype;
 3. https://github.com/Gandi-IDE/scratch-vm/pull/3
 4. 来自 sylarhcn 于“Gandi 内部开发群”的发言。消息渠道保密。
 5. 来自 sylarhcn 于“Gandi 内部开发群”对于 CSense 的评论。消息渠道保密。
-
+![image](https://github.com/user-attachments/assets/5ca420d0-919c-4888-888b-6853a045a190)
 
 ---
 
