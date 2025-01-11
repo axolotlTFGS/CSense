@@ -67,7 +67,7 @@ A：这是社区风气问题。根据调查，在阿尔法营和 ClipCC 社区�
 
 > 你们这么做良心不会痛么？
 
-A：Gandi IDE 开发者在挪用 [1] TurboWarp 源代码而不注明 TurboWarp [2]，导致大部分用户甚至不知道 Gandi IDE 基于 TurboWarp 源代码时；或者扩展集市允许自由上传而导致 TurboWarp 扩展被用户未经原作者允许而违反开源许可证上传到 Gandi IDE 时，他们的良心也没有痛过。
+A：Gandi IDE 开发者在挪用 [1] TurboWarp 源代码而不注明 TurboWarp [2]，导致大部分用户甚至不知道 Gandi IDE 基于 TurboWarp 源代码时；或者扩展集市允许自由上传而导致 TurboWarp 扩展被用户未经原作者允许而违反开源许可证上传到 Gandi IDE 时 [3]，他们的良心也没有痛过。
 
 相关引用及证据：
 1. 以下给出一个例子。
@@ -81,6 +81,7 @@ A：是的，Gandi IDE 是一个基于 LLK/Scratch 开发的 Scratch 编辑器�
 此处没有提到对 TurboWarp 代码的使用。
 相比 Gandi IDE 的 GitHub 仓库来说，显然这个 URL 更加广为人知。
 
+3. https://assets.ccw.site/extension/snowiceJSON https://assets.ccw.site/extension/some58358 https://assets.ccw.site/extension/Cast https://assets.ccw.site/extension/HideBlock https://assets.ccw.site/extension/fetch https://assets.ccw.site/extension/lmsHackedBlocks https://assets.ccw.site/extension/jeremygamerTweening https://assets.ccw.site/extension/skyhigh173JSON https://assets.ccw.site/extension/controlkj https://assets.ccw.site/extension/shovelcss https://assets.ccw.site/extension/xeltallivSimple3D https://assets.ccw.site/extension/shovellzcompress https://assets.ccw.site/extension/pointerlock https://assets.ccw.site/extension/nkcontrols https://assets.ccw.site/extension/clipboard https://assets.ccw.site/extension/localstorage https://assets.ccw.site/extension/lmsTimers https://assets.ccw.site/extension/battery2.0 https://assets.ccw.site/extension/cubesterWindowControls https://assets.ccw.site/extension/mdwaltersnotifications https://assets.ccw.site/extension/alestorenfc https://assets.ccw.site/extension/numericalencoding2 这些扩展都是用户上传的，但官方没有采取任何措施防止这样的行为（和 CSense 不采取任何措施防止脚本小子一样）。
 ---
 
 > 为什么 CSense 不设置门槛让脚本小子不能使用？
