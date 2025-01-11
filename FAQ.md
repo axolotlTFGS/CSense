@@ -45,9 +45,10 @@ A：并非热爱。根据 Gandi IDE 开源的源代码和提交记录可知，Ga
 const isConstructor = value => !!value.prototype;
 ```
 然而，截至 commit `7b3e5b56ce9006112188d0172dee252f8e080c71`，有问题的代码仍然没有被更正。  
-&nbsp;&nbsp;&nbsp;&nbsp;3. https://github.com/Gandi-IDE/scratch-vm/pull/3  
-&nbsp;&nbsp;&nbsp;&nbsp;4. 来自 sylarhcn 于“Gandi 内部开发群”的发言。消息渠道保密。  
-&nbsp;&nbsp;&nbsp;&nbsp;5. 来自 sylarhcn 于“Gandi 内部开发群”对于 CSense 的评论。消息渠道保密。  
+
+3. https://github.com/Gandi-IDE/scratch-vm/pull/3  
+4. 来自 sylarhcn 于“Gandi 内部开发群”的发言。消息渠道保密。  
+5. 来自 sylarhcn 于“Gandi 内部开发群”对于 CSense 的评论。消息渠道保密。  
 ![image](https://github.com/user-attachments/assets/5ca420d0-919c-4888-888b-6853a045a190)
 
 ---
